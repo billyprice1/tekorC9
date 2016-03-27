@@ -28,7 +28,7 @@ define(function(require, exports, module) {
             "option": false
         },
         {
-            "bash": 'wget https://raw.githubusercontent.com/shadowcodex/c9.ide.desktop/master/supervisord.conf'
+            "bash": 'wget https://raw.githubusercontent.com/freenow1/tekorC9/master/supervisord.conf'
         })
         
         // session.install({
