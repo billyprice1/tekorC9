@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shadowcodex/c9.ide.desktop"
+    "url": "https://github.com/freenow1/tekorC9.git"
   },
   "plugins": {
     "c9.ide.desktop": {
